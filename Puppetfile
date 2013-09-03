@@ -34,5 +34,18 @@ github "stdlib",     "4.1.0", :repo => "puppetlabs/puppetlabs-stdlib"
 github "sudo",       "1.0.0"
 github "xquartz",    "1.1.0"
 
+github "chrome",     "1.1.0"
+github "firefox",    "1.1.3"
+github "skype",      "1.0.4"
+github "java",       "1.1.0"
+github "vagrant",    "2.0.10"
+github "virtualbox", "1.0.5"
+github "sourcetree", "1.0.0"
+github "tomcat",     "1.0.0", :repo => "sanmiguelje/puppet-tomcat"
+github "sts",	     "1.0.0", :repo => "georgekorsnick/puppet-sts"
+github "mou",        "1.1"
+github "sequel_pro", "1.0.0"
+github "dropbox",    "1.1.0"
+
 # Optional/custom modules. There are tons available at
 # https://github.com/boxen.
